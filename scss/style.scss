@@ -726,3 +726,10 @@ section {
 }
 
 
+
+@media (max-width: 500px) {
+   .services {
+      background: url('../src/img/site-bg.jpg');
+      background-size: cover;
+   }
+}
