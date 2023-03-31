@@ -1,7 +1,7 @@
 @import url(../css/null.css);
 @import url("https://fonts.googleapis.com/css2?family=Aldrich&family=Poppins:wght@300;400;500;600;700;800&display=swap");
 body {
-  background: url("../src/img/site-bg.jpg") no-repeat;
+  background: url("../src/img/site-bg.jpg");
   background-size: cover;
 }
 
